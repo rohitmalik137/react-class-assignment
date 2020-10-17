@@ -1,3 +1,13 @@
+Q1. Create a React js app which displays a division with book title and book image using JSX
+components. On clicking the book image, the details of book like price, description gets displayed.
+Q2. In the above question, there is also a button “Add to cart” in the division and on clicking that
+button, number of times book clicked, it will be added to cart. The count of books component should
+be displayed in a ‘addToCart’ component.
+Q3. Create a form which takes name of movie and on clicking the ‘show’ button, it should display the
+details of the movie like show Timings, rating, price etc. (Use CSS to design the components)
+
+EndPoints - / for que 1 & 2. And '/q3' for que 3
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
