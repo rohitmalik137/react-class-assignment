@@ -1,0 +1,6 @@
+.formContainer {
+  border: 1px solid gray;
+  display: inline;
+  padding: 15px;
+  border-radius: 5px;
+}

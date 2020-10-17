@@ -1,0 +1,10 @@
+.cartItemContainer {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.cartImage {
+  width: 65px;
+  height: 80px;
+  margin-right: 10px;
+}
